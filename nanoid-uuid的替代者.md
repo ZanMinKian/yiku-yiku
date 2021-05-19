@@ -23,7 +23,7 @@ model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
 - **Compact.** It uses a larger alphabet than UUID (`A-Za-z0-9_-`). So ID size was reduced from 36 to 21 symbols.
 - **Portable.** Nano ID was ported to [14 programming languages](https://www.npmjs.com/package/nanoid#other-programming-languages).
 
-## uuid
+### uuid
 
 uuid使用ts时不够友好。
 
